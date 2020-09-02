@@ -12,5 +12,5 @@ Clone this repository, then go to <i>Google Chrome > Extensions</i>, click <i>Lo
 
 Go to settings and tweak.
 
-**Preferred font:** Jetbrains Mono
+**Preferred font:** Jetbrains Mono  
 **Preferred theme:** Palenight Custom
