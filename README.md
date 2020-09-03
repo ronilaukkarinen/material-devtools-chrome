@@ -14,3 +14,5 @@ Go to settings and tweak.
 
 **Preferred font:** Jetbrains Mono  
 **Preferred theme:** Palenight Custom
+
+This is a fork of official [Material DevTools Theme Collection](https://chrome.google.com/webstore/detail/material-devtools-theme-c/jmefikbdhgocdjeejjnnepgnfkkbpgjo/related).
