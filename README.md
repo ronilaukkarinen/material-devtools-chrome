@@ -12,5 +12,7 @@ Clone this repository, then go to <i>Google Chrome > Extensions</i>, click <i>Lo
 
 Go to settings and tweak.
 
-**Preferred font:** Jetbrains Mono
+**Preferred font:** Jetbrains Mono  
 **Preferred theme:** Palenight Custom
+
+This is a fork of official [Material DevTools Theme Collection](https://chrome.google.com/webstore/detail/material-devtools-theme-c/jmefikbdhgocdjeejjnnepgnfkkbpgjo/related).
